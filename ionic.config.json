@@ -1,0 +1,7 @@
+{
+  "name": "kintai-ion",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
